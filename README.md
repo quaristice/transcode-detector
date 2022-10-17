@@ -3,7 +3,7 @@
 A Python script that detects transcoded FLAC files.
 
 ## Installation
-Install dependencies. Uses Python 3.
+Install dependencies (And Python 3, of course).
 - `pip install soundfile`
 - `pip install numpy`
 - `pip install scipy`
